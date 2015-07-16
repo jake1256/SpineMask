@@ -1,0 +1,2 @@
+# SpineMask
+Spine Animation ObjectにMaskをかける
