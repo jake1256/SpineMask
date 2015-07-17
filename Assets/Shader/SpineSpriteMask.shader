@@ -1,4 +1,4 @@
-﻿Shader "Cg/SpineSpriteMask"{
+﻿Shader "Custom/SpineSpriteMask"{
 Properties
 {
         _MainTex ("Base (RGB)", 2D) = "white" {}
