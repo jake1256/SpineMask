@@ -1,4 +1,4 @@
-﻿Shader "Cg/Buttons"{
+﻿Shader "Custom/SpineShader"{
 Properties
 {
         _MainTex ("Base (RGB)", 2D) = "white" {}
