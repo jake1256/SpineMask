@@ -14,7 +14,7 @@ SubShader
  
  
         Stencil {
-                                Ref 1
+                                Ref 2
                                 Comp always
                                 Pass replace
                         }
