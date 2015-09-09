@@ -8,6 +8,7 @@ SubShader
 {
         Tags {"Queue"="Transparent+2" "IgnoreProjector"="True" "RenderType"="Transparent"}
         ZWrite Off
+        Cull Off
         Blend SrcAlpha OneMinusSrcAlpha
  
         Stencil {
